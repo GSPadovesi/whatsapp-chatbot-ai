@@ -1,3 +1,5 @@
 .env
 node_modules
 gemini.md
+.wwebjs_auth
+.wwebjs_cache
